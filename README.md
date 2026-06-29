@@ -63,10 +63,16 @@ Chaque projet contient un `PROMPT_LOG.md` : la preuve transparente de comment j'
 
 ## Disponible pour missions freelance
 
-`Data RH` · `C&B Analytics` · `Product Management` · `Business Analysis`
-Remote · France & International
+**Ce que je livre :**
+- Audit & structuration données RH (C&B, Bilan Social, Index H/F)
+- Dashboard analytique RH livré en 2-3 semaines
+- Cadrage SI RH / Product Owner (SIRH, Airtable, migration données)
 
-📩 **giselemetouck@gmail.com**
+**Contextes :** PME Pharma · Grands groupes · Startups à fort recrutement
+**Format :** Mission courte (1-4 sem.) ou accompagnement (3-6 mois)
+**Localisation :** Remote · France & International
+
+📩 **metouck.gisele@gmail.com**
 
 ---
 
