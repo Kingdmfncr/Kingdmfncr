@@ -1,79 +1,106 @@
 # Gisèle Metouck
-### Data & Product Manager · AI Orchestrator · Freelance
+### AI Product Manager · Data Analyst · Freelance
 
-[![Market Tension Radar](https://img.shields.io/badge/🎯_App_Live-Market_Tension_Radar-00ff88?style=for-the-badge)](https://market-tension-radar.streamlit.app)
-[![HR Dashboard](https://img.shields.io/badge/📊_App_Live-HR_Data_Dashboard-00ff88?style=for-the-badge)](https://rh-flux-dashboard.streamlit.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gisèle_Metouck-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gisele-metouck-dataanalyst/)
+[![Email](https://img.shields.io/badge/Contact-metouck.gisele@gmail.com-00ff88?style=for-the-badge)](mailto:metouck.gisele@gmail.com)
 
 ---
 
 ## Ce que je fais
 
-Je transforme des problèmes métier complexes en outils data actionnables — en pilotant l'IA à chaque étape, sans background développeur.
+Je cadre des problèmes métier, je les transforme en cas d'usage IA actionnables, et je construis les outils qui les résolvent.
 
-8 ans de terrain dans des environnements exigeants (santé publique, cosmétique, agriculture internationale) m'ont appris une chose : **la vraie valeur n'est pas dans le code, elle est dans la capacité à cadrer un problème et à aller jusqu'au livrable.**
-
----
-
-## Mes projets GitHub
-
-| Projet | Ce que ça démontre | Stack |
-|--------|-------------------|-------|
-| [🎯 Market Tension Radar](https://github.com/Kingdmfncr/market-tension-radar) | Scoring d'adéquation candidat × marché — sidebar personnalisable en live | Python · Streamlit · Plotly |
-| [📊 HR Data Dashboard](https://github.com/Kingdmfncr/rh-flux-dashboard) | C&B · Bilan Social · Index H/F · adaptatif PME & Grand Groupe | Python · SQL · Streamlit |
+Pas de background développeur. 8 ans de terrain dans des environnements exigeants — santé publique, cosmétique, agriculture internationale. Ce que j'apporte : la capacité à comprendre un problème assez précisément pour savoir quoi construire, puis le construire avec l'IA.
 
 ---
 
-## Preuves terrain
+## Outils live — construits avec l'IA
+
+| App | Problème résolu | Stack |
+|-----|----------------|-------|
+| [🧠 AI Use Case Prioritizer](https://github.com/Kingdmfncr/ai-use-case-prioritizer) | Quelle initiative IA lancer en premier ? Scoring composite, matrice quadrants, benchmark sectoriel, auto-scoring Claude | Streamlit · Plotly · Claude Haiku |
+| [📊 Business Performance Dashboard](https://github.com/Kingdmfncr/-business-performance-dashboard) | Détecter les anomalies budgétaires avant la réunion mensuelle | Streamlit · Plotly · fpdf2 |
+| [👥 HR Analytics Dashboard](https://github.com/Kingdmfncr/rh-flux-dashboard) | Centraliser C&B, Bilan Social et Index H/F en un seul outil | Streamlit · Pandas |
+| [💰 Benchmark Salarial IA](https://github.com/Kingdmfncr/llm-benchmark-salarial) | Négocier avec des données de marché réelles (France Travail · DARES) | Streamlit · Claude Haiku |
+| [🎯 Market Tension Radar](https://github.com/Kingdmfncr/market-tension-radar) | Visualiser la tension emploi par métier et région en 30 secondes | Streamlit · Plotly |
+
+**Apps en ligne :**
+[![AI Prioritizer](https://img.shields.io/badge/▶_Live-AI_Use_Case_Prioritizer-00ff88?style=flat-square)](https://ai-use-case-prioritizer.streamlit.app)
+[![Business Dashboard](https://img.shields.io/badge/▶_Live-Business_Dashboard-00ff88?style=flat-square)](https://business-performance-dashboard.streamlit.app)
+[![HR Dashboard](https://img.shields.io/badge/▶_Live-HR_Dashboard-00ff88?style=flat-square)](https://rh-flux-dashboard.streamlit.app)
+[![Benchmark Salarial](https://img.shields.io/badge/▶_Live-Benchmark_Salarial-00ff88?style=flat-square)](https://llm-benchmark-salarial.streamlit.app)
+[![Market Radar](https://img.shields.io/badge/▶_Live-Market_Radar-00ff88?style=flat-square)](https://market-tension-radar.streamlit.app)
+
+---
+
+## Profil AI Product Manager
+
+Un PM IA doit faire trois choses que la plupart ne font pas simultanément :
+
+**1. Cadrer le bon problème**
+Pas "on veut de l'IA" — mais "quel cas d'usage, pour quel utilisateur, avec quelle donnée disponible, pour quel impact mesurable en 90 jours."
+
+**2. Prioriser sans se tromper**
+Impact × Faisabilité × Délai de valeur × Alignement stratégique × Risque conformité. J'ai construit un outil de scoring pour ça — parce que j'en avais besoin.
+
+**3. Livrer la preuve**
+Chaque projet ici est un livrable fonctionnel, pas une démo. Upload de vraies données, calculs réels, export PDF, API connectée. Utilisable le jour même.
+
+---
+
+## Ce que j'apporte en mission
 
 ```
-✅ 200+ flux/semaine fiabilisés selon normes HAS          — CHU Rouen
-✅ 100% adoption Airtable multi-sites en contexte flou    — PERAGRO (Cameroun)
-✅ Dashboard prix/marges reconstruit après perte fournisseur — CODEVI
-✅ 3 domaines RH restructurés simultanément en 5 jours    — Préfecture de Rouen
-✅ App de scoring marché construite avec IA sans dev       — Sovereign Career
+✅ Cadrage use case IA : du brief flou au backlog priorisé
+✅ Scoring et roadmap IA : framework Impact × Faisabilité × Risque
+✅ Dashboard analytique livré en 2 à 3 semaines
+✅ Audit données RH : C&B, Bilan Social légal, Index H/F Pénicaud
+✅ Product Owner SIRH : Airtable, migration données, adoption équipe
+```
+
+**Preuves terrain**
+```
+CHU Rouen       — 200+ flux/semaine fiabilisés selon normes HAS
+PERAGRO (CM)    — 100% adoption Airtable multi-sites en contexte flou
+CODEVI          — Dashboard prix/marges reconstruit après perte fournisseur
+Préfecture Rouen — 3 domaines RH restructurés simultanément en 5 jours
 ```
 
 ---
 
-## Skills
+## Stack
 
-**Outils**
-`Excel` `Airtable` `Notion` `Power BI` `Google Sheets` `Make` `n8n`
+**IA & Produit**
+`Cadrage use case` `Priorisation roadmap IA` `Prompt engineering` `Claude API` `BYOK pattern`
 
-**Data & Code**
-`SQL` `Python` `Streamlit` `Pandas` `Plotly`
+**Data & Visualisation**
+`Python` `Pandas` `Plotly` `Streamlit` `SQL` `Power BI`
+
+**Outils métier**
+`Excel` `Airtable` `Notion` `Google Sheets` `Make` `n8n`
 
 **Méthodes**
-`Product Owner` `Agile / User Stories` `Business Analyst` `AI Orchestration`
+`Product Owner` `User Stories` `Business Analyst` `OKR` `Agile`
 
 **Domaines**
-`RH & C&B` `Santé / HAS` `Cosmétique` `Agri-business` `International`
+`Luxe & Beauté` `RH & C&B` `Santé / HAS` `Cosmétique` `Agri-business`
 
 ---
 
-## Ma méthode de travail avec l'IA
+## Transparence sur la méthode
 
-> Je ne code pas pour coder.
-> Je pilote l'IA pour livrer des outils de niveau senior — et je documente chaque étape.
+Je construis avec l'IA. Ce n'est pas un raccourci — c'est la compétence.
 
-Chaque projet contient un `PROMPT_LOG.md` : la preuve transparente de comment j'ai travaillé avec l'IA, prompt par prompt.
+Savoir quel problème résoudre, comment le décomposer, quelle donnée utiliser, quel output livrer — c'est ça que j'apporte. L'IA est l'outil. Le jugement métier est la valeur.
+
+Chaque repo contient un `PROMPT_LOG.md` : la trace complète de comment j'ai travaillé avec l'IA, prompt par prompt.
 
 ---
 
-## Disponible pour missions freelance
+## Disponible pour missions
 
-**Ce que je livre :**
-- Audit & structuration données RH (C&B, Bilan Social, Index H/F)
-- Dashboard analytique RH livré en 2-3 semaines
-- Cadrage SI RH / Product Owner (SIRH, Airtable, migration données)
-
-**Contextes :** PME Pharma · Grands groupes · Startups à fort recrutement
-**Format :** Mission courte (1-4 sem.) ou accompagnement (3-6 mois)
-**Localisation :** Remote · France & International
+**Contextes :** Luxe · Beauté · Pharma · Startups en croissance · Grands groupes
+**Rôles :** AI Product Manager · Data Analyst · Product Owner SIRH
+**Format :** Mission courte (2–6 sem.) · Accompagnement (3–6 mois) · Remote
 
 📩 **metouck.gisele@gmail.com**
-
----
-
-*"8 ans de terrain + maîtrise de l'IA = des livrables que ni un dev junior ni un consultant senior ne peuvent produire seuls."*
