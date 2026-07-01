@@ -51,10 +51,16 @@ Domaines : Luxe et Beaute · RH · Sante HAS · Cosmetique · Agri-business
 
 ## Preuves terrain
 
-CHU Rouen - 200+ flux/semaine HAS · PERAGRO CM - adoption Airtable multi-sites · CODEVI - dashboard prix/marges · Prefecture Rouen - 3 domaines RH en 5 jours
+CHU Rouen - 200+ flux/semaine HAS
+
+PERAGRO Cameroun - 100% adoption Airtable multi-sites en contexte flou
+
+CODEVI - Dashboard prix/marges reconstruit apres perte fournisseur
+
+Prefecture de Rouen - 3 domaines RH restructures en 5 jours
 
 ---
 
 Je construis avec l'IA. Ce n'est pas un raccourci, c'est la competence. Chaque repo contient un PROMPT_LOG.md.
 
-Disponible : Luxe · Beaute · Pharma · Grands groupes · Remote · metouck.gisele@gmail.com
+Disponible : Luxe · Beaute · Pharma · Grands groupes · Remote
