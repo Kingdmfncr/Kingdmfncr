@@ -31,11 +31,9 @@ Ce que j'apporte : comprendre un problème assez précisément pour savoir quoi 
 
 [Credit Risk Scoring](https://credit-risk-scoring.streamlit.app) — Grille de scoring crédit transparente, segmentation de portefeuille *(POC personnel)*
 
-[Assurance S/P Ratio](https://assurance-sp-ratio-poc.streamlit.app) — Pilotage du ratio Sinistres/Primes, aide à la tarification *(POC personnel)*
+[Assurance S/P Ratio](https://assurance-sp-ratio.streamlit.app) — Pilotage du ratio Sinistres/Primes, aide à la tarification *(POC personnel)*
 
 [Cash Management Treasury](https://cash-management-treasury-poc.streamlit.app) — Consolidation multi-devises, prévisions de flux, messages SWIFT *(POC personnel)*
-
-[Agent Conformité](https://agent-conformite-poc.streamlit.app) — Automatisation des contrôles KYC, checklist pondérée *(POC personnel)*
 
 ---
 
