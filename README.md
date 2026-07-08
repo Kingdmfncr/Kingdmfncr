@@ -1,37 +1,51 @@
-# Gisele Metouck
+# Gisèle Metouck
 ### AI Product Manager · Data Analyst · Freelance
 
 metouck.gisele@gmail.com
 
 ---
 
-Je cadre des problemes metier, je les transforme en cas d'usage IA actionnables, et je construis les outils qui les resolvent.
+Je cadre des problèmes métier, je les transforme en cas d'usage IA actionnables, et je construis les outils qui les résolvent.
 
-8 ans de terrain : sante publique, cosmetique, agriculture internationale. Ce que j'apporte : comprendre un probleme assez precisement pour savoir quoi construire, puis le construire avec l'IA.
+Ce que j'apporte : comprendre un problème assez précisément pour savoir quoi construire, puis le construire avec l'IA — jusqu'à l'outil utilisable le jour même.
 
 ---
 
-## 5 outils live
+## Outils live
 
-[AI Use Case Prioritizer](https://ai-use-case-prioritizer.streamlit.app) - Quelle initiative IA lancer en premier - scoring 5D, benchmark sectoriel, auto-scoring Claude
+[AI Use Case Prioritizer](https://ai-use-case-prioritizer.streamlit.app) — Quelle initiative IA lancer en premier : scoring 5D, benchmark sectoriel, auto-scoring Claude
 
-[Business Performance Dashboard](https://business-performance-dashboard.streamlit.app) - Anomalies budgetaires, comparaison N vs N-1, export PDF
+[Business Performance Dashboard](https://business-performance-dashboard.streamlit.app) — Anomalies budgétaires, comparaison N vs N-1, export PDF
 
-[HR Analytics Dashboard](https://rh-flux-dashboard.streamlit.app) - C&B, Bilan Social legal, Index H/F, adaptatif PME et grand groupe
+[HR Analytics Dashboard](https://rh-flux-dashboard.streamlit.app) — C&B, Bilan Social légal, Index H/F, adaptatif PME et grand groupe
 
-[Benchmark Salarial IA](https://llm-benchmark-salarial.streamlit.app) - Scoring offres et benchmark marche sur donnees DARES officielles
+[Benchmark Salarial IA](https://llm-benchmark-salarial.streamlit.app) — Scoring offres et benchmark marché sur données DARES officielles
 
-[Market Tension Radar](https://market-tension-radar.streamlit.app) - Tension emploi par metier et region, deal-breakers automatiques
+[Market Tension Radar](https://market-tension-radar.streamlit.app) — Tension emploi par métier et région, deal-breakers automatiques
+
+[Quality Suite UPRAS](https://quality-suite-upras.streamlit.app) — Suite qualité hospitalière inspirée de l'aviation : événements indésirables, fatigue des équipes, prédiction de risques
+
+[Change & Onboarding Tracker](https://change-onboarding-tracker.streamlit.app) — Intégration RH et adoption des projets de transformation, readiness score
+
+[Freelance Pipeline CRM](https://freelance-pipeline-crm.streamlit.app) — Pipeline pondéré, relances automatiques, recherche d'entreprises via l'annuaire officiel
+
+[Credit Risk Scoring](https://credit-risk-scoring.streamlit.app) — Grille de scoring crédit transparente, segmentation de portefeuille *(POC personnel)*
+
+[Assurance S/P Ratio](https://assurance-sp-ratio-poc.streamlit.app) — Pilotage du ratio Sinistres/Primes, aide à la tarification *(POC personnel)*
+
+[Cash Management Treasury](https://cash-management-treasury-poc.streamlit.app) — Consolidation multi-devises, prévisions de flux, messages SWIFT *(POC personnel)*
+
+[Agent Conformité](https://agent-conformite-poc.streamlit.app) — Automatisation des contrôles KYC, checklist pondérée *(POC personnel)*
 
 ---
 
 ## Profil AI PM
 
-Cadrer le bon probleme. Pas "on veut de l'IA" mais "quel cas d'usage, pour quelle donnee, pour quel impact en 90 jours."
+Cadrer le bon problème. Pas "on veut de l'IA" mais "quel cas d'usage, pour quelle donnée, pour quel impact en 90 jours."
 
-Prioriser sans se tromper. Impact x Faisabilite x Delai x Alignement x Risque. J'ai construit un outil de scoring pour ca.
+Prioriser sans se tromper. Impact × Faisabilité × Délai × Alignement × Risque. J'ai construit un outil de scoring pour ça.
 
-Livrer la preuve. Chaque projet ici accepte de vraies donnees en upload. Utilisable le jour meme.
+Livrer la preuve. Chaque projet ici accepte de vraies données en upload. Utilisable le jour même.
 
 ---
 
@@ -43,24 +57,24 @@ Data : Python · Pandas · Plotly · Streamlit · SQL · Power BI
 
 Outils : Excel · Airtable · Notion · Google Sheets · Make · n8n
 
-Methodes : Product Owner · User Stories · Business Analyst · OKR · Agile
+Méthodes : Product Owner · User Stories · Business Analyst · OKR · Agile
 
-Domaines : Luxe et Beaute · RH · Sante HAS · Cosmetique · Agri-business
+Domaines : Luxe et Beauté · RH · Santé HAS · Cosmétique · Agri-business · Finance & Conformité
 
 ---
 
 ## Preuves terrain
 
-CHU Rouen - 200+ flux/semaine HAS
+CHU de Rouen — Appui data & reporting d'activité, fiabilisation des signalements qualité
 
-PERAGRO Cameroun - 100% adoption Airtable multi-sites en contexte flou
+Préfecture de Normandie — Structuration et harmonisation des procédures RH
 
-CODEVI - Dashboard prix/marges reconstruit apres perte fournisseur
+PERAGRO Cameroun — Centralisation des suivis d'activité via Airtable et Notion
 
-Prefecture de Rouen - 3 domaines RH restructures en 5 jours
+ROSAME — Structuration et pilotage de données patrimoniales (SCI familiale)
 
 ---
 
-Je construis avec l'IA. Ce n'est pas un raccourci, c'est la competence. Chaque repo contient un PROMPT_LOG.md.
+Je construis avec l'IA. Ce n'est pas un raccourci, c'est la compétence. Chaque repo contient un PROMPT_LOG.md.
 
-Disponible : Luxe · Beaute · Pharma · Grands groupes · Remote
+Disponible : Data & Business Analyst · Finance & Conformité · RH · Remote
