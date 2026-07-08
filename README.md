@@ -25,7 +25,7 @@ Ce que j'apporte : comprendre un problème assez précisément pour savoir quoi 
 
 [Quality Suite UPRAS](https://quality-suite-upras.streamlit.app) — Suite qualité hospitalière inspirée de l'aviation : événements indésirables, fatigue des équipes, prédiction de risques
 
-[Change & Onboarding Tracker](https://change-onboarding-tracker.streamlit.app) — Intégration RH et adoption des projets de transformation, readiness score
+[Change & Onboarding Tracker](https://change-onboardin-tracker.streamlit.app) — Intégration RH et adoption des projets de transformation, readiness score
 
 [Freelance Pipeline CRM](https://freelance-pipeline-crm.streamlit.app) — Pipeline pondéré, relances automatiques, recherche d'entreprises via l'annuaire officiel
 
