@@ -35,6 +35,8 @@ Ce que j'apporte : comprendre un problème assez précisément pour savoir quoi 
 
 [Cash Management Treasury](https://cash-management-treasury-poc.streamlit.app) — Consolidation multi-devises, prévisions de flux, messages SWIFT *(POC personnel)*
 
+[Agent Conformité](https://agent-conformite-poc.streamlit.app) — Automatisation des contrôles KYC, checklist pondérée *(POC personnel)*
+
 ---
 
 ## Profil AI PM
