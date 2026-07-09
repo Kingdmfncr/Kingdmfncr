@@ -73,6 +73,8 @@ PERAGRO Cameroun — Centralisation des suivis d'activité via Airtable et Notio
 
 ROSAME — Structuration et pilotage de données patrimoniales (SCI familiale)
 
+CODEVI — Reconstruction du dashboard prix/marges après perte d'un fournisseur clé
+
 ---
 
 Je construis avec l'IA. Ce n'est pas un raccourci, c'est la compétence. Chaque repo contient un PROMPT_LOG.md.
